@@ -1,14 +1,17 @@
 # macOS SONOMA on Lenovo Thinkpad W541
 
+## Warning:
+- Here is the EFI once completed. If you want to use it for installation, please adjust SMBIOS higher.
+
 ## Specifications:
-- **CPU:** 	i7 – 4800MQ
-- **iGPU:** 	 	 HD4600
-- **dGPU:** 	 	 K2100M
-- **RAM:** 16GB
-- **Ethernet:** 	
-- **Sound Card:** 	
+- **CPU:** 	Intel® Core™ i7-4800MQ
+- **iGPU:** 	 	 Intel® HD Graphics 4600
+- **dGPU:** 	 	 Nvidia Quadro K2100M (2GB)
+- **RAM:** 16GB DDR3L 1600MHz
+- **Ethernet:** Intel® Ethernet Connection I217 	
+- **Sound Card:** 	Realtek ALC292
 - **Disk Drive:**
-- **Wifi/ Bluetooth:** Intel
+- **Wifi/ Bluetooth:** Intel® Wireless-AC 7260
 
 
 ## Whats workin'
